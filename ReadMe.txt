@@ -1,0 +1,1 @@
+This is a program created to answer Project Euler's first problem (https://projecteuler.net/problem=1)
